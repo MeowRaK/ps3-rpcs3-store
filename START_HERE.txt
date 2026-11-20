@@ -1,0 +1,13 @@
+PS3 FPKGi+ CATALOG - ONE-TIME GITHUB SETUP
+
+I could build the files but not upload them to your GitHub: the connection rejected writes (403).
+
+1. Go to https://github.com/new and create a PUBLIC repo named ps3-rpcs3-store.
+2. Unzip this file and use Github -> Add file -> Upload files. Upload build_catalog.py, DEMOS.json and the folder .github (including its workflow). Upload README.md too if wanted.
+3. Open GitHub -> Actions -> Build PS3 catalog -> check success, or click Run workflow.
+4. The resulting catalog should be at:
+   https://raw.githubusercontent.com/MeowRaK/ps3-rpcs3-store/main/DEMOS.json
+5. PS4 FPKGi+ -> Settings -> Content sources -> Demos -> paste that URL -> reload lists.
+6. Keep Install after downloading OFF. PS3 PKGs need the RPCS3 importer, not the PS4 installer.
+
+If the output still has only 2 entries, the automatic build hasn't completed. Check the Actions logs.

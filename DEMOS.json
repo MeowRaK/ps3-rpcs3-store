@@ -1,0 +1,30 @@
+{
+  "DATA": {
+    "https://github.com/PS3-Pro/Packages/releases/download/Games/Grid_Siege.pkg": {
+      "title_id": "GSIG00001",
+      "name": "PS3 - Grid Siege",
+      "size": 1792784,
+      "region": "UNK",
+      "description": "PS3 homebrew game by daedra000. DOWNLOAD ONLY for RPCS3; do not press Install in FPKGi+.",
+      "developer": "daedra000",
+      "genres": [
+        "Homebrew",
+        "Arcade"
+      ],
+      "players": "1 player"
+    },
+    "https://github.com/PS3-Pro/Packages/releases/download/Games/Orbital_Spaceflight.pkg": {
+      "title_id": "P3ORBIT01",
+      "name": "PS3 - Orbital Spaceflight",
+      "size": 3890160,
+      "region": "UNK",
+      "description": "PS3 homebrew game by Erob19qw3e. DOWNLOAD ONLY for RPCS3; do not press Install in FPKGi+.",
+      "developer": "Erob19qw3e",
+      "genres": [
+        "Homebrew",
+        "Simulation"
+      ],
+      "players": "1 player"
+    }
+  }
+}
