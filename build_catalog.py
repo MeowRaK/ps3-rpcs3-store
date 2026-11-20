@@ -86,10 +86,19 @@ def region_of(raw: str) -> str | None:
 
 
 def valid_link(u: str) -> bool:
+    """Permit HTTPS links and HTTP only for official Sony PSN CDN hosts.
+
+    NPS records regularly use http://zeus.dl.playstation.net/..., not HTTPS.
+    Refusing all HTTP URLs caused the original 7,914-row import to yield zero games.
+    """
     try:
         p = urlsplit(u)
-        # FPKGi+ supports HTTPS downloads; disallow dangerous local / non-HTTP schemes.
-        return p.scheme == "https" and bool(p.netloc) and not p.username and not p.password
+        host = (p.hostname or "").lower()
+        if not host or p.username or p.password or p.port not in (None, 80, 443):
+            return False
+        if p.scheme == "https":
+            return True
+        return p.scheme == "http" and (host == "dl.playstation.net" or host.endswith(".dl.playstation.net"))
     except ValueError:
         return False
 
@@ -214,9 +223,11 @@ def main() -> int:
         print("Cannot load any source:\n" + "\n".join(errors), file=sys.stderr)
         return 2
     catalog, library, report = generate(rows, regions or None, args.limit)
+    # Report diagnostics even if the catalog would otherwise be empty.
+    print(json.dumps(report, indent=2), flush=True)
     if not catalog["DATA"] and not args.allow_empty:
         print("No usable downloadable entries. Refusing to overwrite an existing catalog. "
-              "Check report fields/TSV schema and link/size columns.", file=sys.stderr)
+              "Inspect skipped_reasons above and check source headers, URLs, and sizes.", file=sys.stderr)
         return 3
     dst = Path(args.output)
     dst.mkdir(parents=True, exist_ok=True)
@@ -225,7 +236,6 @@ def main() -> int:
         temp = dst / (fname + ".tmp")
         temp.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         temp.replace(dst / fname)
-    print(json.dumps(report, indent=2))
     print("Use DEMOS.json in FPKGi+ Demos source to keep existing PS4 Games intact.")
     return 0
 
