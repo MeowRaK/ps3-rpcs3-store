@@ -10,10 +10,263 @@
     "missing_or_unknown_size": 9,
     "missing_or_invalid_title_id": 1
   },
-  "generated_utc": "2026-11-20T16:19:52Z",
+  "generated_utc": "2026-11-21T00:52:46Z",
   "notes": [
     "No licenses/RAP keys are distributed.",
     "FPKGi+ downloads PS3 files but does not install them into RPCS3.",
     "Only download games you own or are authorized to download."
-  ]
+  ],
+  "enhancement": {
+    "generated_utc": "2026-11-21T00:52:47.245866+00:00",
+    "disc_source": "https://github.com/niemasd/GameDB-PS3/releases/latest/download/PS3.data.json",
+    "disc_records_read": 4571,
+    "library_entries_after_filter_and_merge": 11341,
+    "downloadable_entries_before": 5483,
+    "downloadable_entries_after": 5464,
+    "downloadable_title_ids_after": 5294,
+    "filtered_existing_library": 123,
+    "filtered_downloads": 19,
+    "disc_entries_added": 3551,
+    "disc_ids_already_in_library": 191,
+    "filtered_disc_entries": 829,
+    "excluded_examples": [
+      {
+        "title_id": "NPEB00113",
+        "name": "Call of Duty Classic French Version",
+        "reason": "Explicit non-English edition",
+        "languages": []
+      },
+      {
+        "title_id": "NPUZ00026",
+        "name": "ZOMBIE TYCOON French Version",
+        "reason": "Explicit non-English edition",
+        "languages": []
+      },
+      {
+        "title_id": "BCJS30002",
+        "name": "GENJI －神威奏乱－",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BCJS30010",
+        "name": "ぼくのなつやすみ3 －北国篇－ 小さなボクの大草原",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BCJS30011",
+        "name": "みんなのGOLF 5",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BCJS30030",
+        "name": "白騎士物語 -古の鼓動-",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BCJS30042",
+        "name": "白騎士物語 -光と闇の覚醒-",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BCJS30055",
+        "name": "街スベリ",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60038",
+        "name": "アガレスト戦記",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60042",
+        "name": "忌火起草（いまびきそう）",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60053",
+        "name": "バーンアウト パラダイス",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60063",
+        "name": "戦場のヴァルキュリア",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60101",
+        "name": "マーセナリーズ2 ワールドイン フレームス",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60111",
+        "name": "ガンダム無双２",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60115",
+        "name": "ニード・フォー・スピード アンダーカバー",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60157",
+        "name": "BLAZBLUE",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60162",
+        "name": "トリニティ・ユニバース",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60167",
+        "name": "ニード・フォー・スピード シフト",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60180",
+        "name": "3Dドットゲームヒーローズ",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60191",
+        "name": "コール オブ デューティ モダン・ウォーフェア2",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60196",
+        "name": "北斗無双",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60206",
+        "name": "FRONT MISSION EVOLVED",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60216",
+        "name": "アーミーオブツー:The 40th Day",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60223",
+        "name": "NieR Replicant",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60238",
+        "name": "BLAZBLUE CONTINUUM SHIFT",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60240",
+        "name": "薄桜鬼 巡想録",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60241",
+        "name": "トトリのアトリエ～アーランドの錬金術士2～",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60247",
+        "name": "超次元ゲイム ネプテューヌ",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60248",
+        "name": "アルカナハート3",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "title_id": "BLJM60251",
+        "name": "SPLIT SECOND -スプリットセカンド-",
+        "reason": "Explicit non-English edition",
+        "languages": [
+          "Japanese"
+        ]
+      }
+    ],
+    "caveat": "Unknown-language NPS titles are preserved; region alone does not prove language. Disc-only entries have no downloads and do not appear in FPKGi+."
+  }
 }

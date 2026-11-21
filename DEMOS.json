@@ -1,15 +1,5 @@
 {
   "DATA": {
-    "http://zeus.dl.playstation.net/cdn/EP0002/NPEB00113_00/SNhRkR6CwU5mHbsD6eeliocSFWu971vOE5MAMEtl59UKYDh6TQlPTgymBjkD1SK5JMEtdVWKm9AfxbUKNdHyeWovrXa9n48cKsv7r.pkg": {
-      "title_id": "NPEB00113",
-      "name": "Call of Duty Classic French Version",
-      "size": 987927856,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
     "http://zeus.dl.playstation.net/cdn/JP0035/NPJJ00137_00/PEDAwjqmIiarRsPYMveeDeFAayGxTauBVPHjvmjLJxyhlYzuQHdOpTrJnrZghYGSPDKCtXRNJAwFaKLAgAusuLcuALWRbPbBRzyQy.pkg": {
       "title_id": "NPJJ00137",
       "name": "Money Idol Exchanger (PSX)",
@@ -23690,16 +23680,6 @@
       "min_fw": null,
       "cover_url": null
     },
-    "http://zeus.dl.playstation.net/cdn/EP0001/NPEB00802_00/CHrDCJNextcBNMgWIASiGUmBgnwTYEkSlwTndrQqgFJUuFouQOyWAcgkRyGLGVqz.pkg": {
-      "title_id": "NPEB00802",
-      "name": "Assassin's Creed Movie - Embers (Russian)",
-      "size": 1020223744,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
     "http://ares.dl.playstation.net/cdn/EP4380/NPEB00811_00/YKkyCUlRVSepeHyxoCnOCQSncZEaVRnlSskTUhzmuSZCmyypLUqzLFAZzrcAstwD.pkg": {
       "title_id": "NPEB00811",
       "name": "Zombie Driver HD",
@@ -25274,16 +25254,6 @@
       "title_id": "NPEB01204",
       "name": "Call of Duty: Black Ops II (England/France)",
       "size": 13762643536,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/EP0002/NPEB01206_00/YmsrDqNHMKDCLLVSYhDnWTyBjWyDLxOjvIEjjylZjYOdpcfehMCfcxINRmGUHKel.pkg": {
-      "title_id": "NPEB01206",
-      "name": "Call of Duty: Black Ops II (Italy/Spain)",
-      "size": 13753950288,
       "region": "EUR",
       "version": "01.00",
       "release": null,
@@ -27190,16 +27160,6 @@
       "min_fw": null,
       "cover_url": null
     },
-    "http://zeus.dl.playstation.net/cdn/EP0002/NPEB02027_00/XPxpICYOeiVxOZmawHluYdEZPFcqtqimXMwvKbHOIjrzcbDsFIsUkFexGoICPIijbbRzVQiAyWDVNtBgdRyQDMvuYLWxKphFNmLzA.pkg": {
-      "title_id": "NPEB02027",
-      "name": "Diablo III: Reaper of Souls - Ultimate Evil Edition (Russian, Polish)",
-      "size": 12443293152,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
     "http://zeus.dl.playstation.net/cdn/EP4128/NPEB02029_00/EP4128-NPEB02029_00-INVOKERST0000001_bg_1_3741647957a2b99236a3d7fb7e6b94108a8d2882.pkg": {
       "title_id": "NPEB02029",
       "name": "Invokers Tournament",
@@ -27374,16 +27334,6 @@
       "title_id": "NPEB02087",
       "name": "Call of Duty: Advanced Warfare (English - French)",
       "size": 14765118800,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/EP0002/NPEB02088_00/vBULiUUSxGNpBltNvGTKkyvunlkiiijZWHssbkZgKodXaVHSGCHbVIcTwXVWNCunifbpzEHFbIkQZRFbouUhWAdItlTbeBOfDzUKO.pkg": {
-      "title_id": "NPEB02088",
-      "name": "Call of Duty: Advanced Warfare (Polish - Russian)",
-      "size": 14093801712,
       "region": "EUR",
       "version": "01.00",
       "release": null,
@@ -28280,26 +28230,6 @@
       "min_fw": null,
       "cover_url": null
     },
-    "http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/AHaQFfNUJEokSMovjxdGhfiaTMXzKvCNvAPLlPBfZYRVpVvlLjQKxddDtpiINmdN.pkg": {
-      "title_id": "NPEC00001",
-      "name": "Twisted Metal Black - Spanish Version (PS2)",
-      "size": 1779999744,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/hfyseRFYLtxAaeykhMQNtIPafBVtbaDcrLskhQAYfZbwBBfrNntUTWxMOlaIHiZT.pkg": {
-      "title_id": "NPEC00001",
-      "name": "Twisted Metal Black - French Version (PS2)",
-      "size": 1779999744,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
     "http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/IxkLfBfCHgphtwgqNPjNxdxoRaoEcLAPyDXLLGJCHiiQqFcTszazNZHcPwFLxdgV.pkg": {
       "title_id": "NPEC00001",
       "name": "Twisted Metal Black - Portugese Version (PS2)",
@@ -28314,46 +28244,6 @@
       "title_id": "NPEC00001",
       "name": "Twisted Metal Black - UK Version (PS2)",
       "size": 1780105680,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/OngmkGHkPqjIWixiJvVgQxcTWzVuEcqcNgjwqzuisIDhgshycPjGwlpgsaPWeihT.pkg": {
-      "title_id": "NPEC00001",
-      "name": "Twisted Metal Black - German Version (PS2)",
-      "size": 1779999744,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/ooPPMKbFsnLlDMVXIYiDTHwhHvQepvTefUaUZQjpQPNUoXyHvUqfGTeKDWDHhOfg.pkg": {
-      "title_id": "NPEC00001",
-      "name": "Twisted Metal Black - Dutch Version (PS2)",
-      "size": 1779999744,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/OqbRYwQDgZkXFkpmrxsGsGRunIOAHYriymBTKcizQMCMxQcyZmiDohyWwYAPrZhr.pkg": {
-      "title_id": "NPEC00001",
-      "name": "Twisted Metal Black - Russian Version (PS2)",
-      "size": 1779999744,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/yFjkQOMSXJomcNGGGnnujkLDMIETZmeAJigvjyOhNXiJuVPZxApvhdphfEuhLeWH.pkg": {
-      "title_id": "NPEC00001",
-      "name": "Twisted Metal Black - Italian Version (PS2)",
-      "size": 1779999744,
       "region": "EUR",
       "version": "01.00",
       "release": null,
@@ -28430,16 +28320,6 @@
       "min_fw": null,
       "cover_url": null
     },
-    "http://zeus.dl.playstation.net/cdn/EP0177/NPED00034_00/vEjrMFJSYFGWJcrAKKvoRXhQVSEUvrLrmqNzjvBQgQDhLRCbnWZahBvgswroSwGH.pkg": {
-      "title_id": "NPED00034",
-      "name": "Sonic Heroes - French Version (PS2)",
-      "size": 4727346096,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
     "http://zeus.dl.playstation.net/cdn/EP0102/NPED00052_00/ZaZbieaYFakfVgarWgAitqWPQdQUnaFUPHIjlOUmyeJJZMnzNeWmlwuOTMSAfMmk.pkg": {
       "title_id": "NPED00052",
       "name": "God Hand (PS2)",
@@ -28484,16 +28364,6 @@
       "title_id": "NPED00070",
       "name": "Grand Theft Auto San Andreas (PS2)",
       "size": 4546660384,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/EP1004/NPED00070_00/SnazHyqxZPlWEWwGmQaGCXGNCfkHsrKRAeYZDdOyuGRhRkGpopLXlGlkOLnISVyJ.pkg": {
-      "title_id": "NPED00070",
-      "name": "Grand Theft Auto San Andreas - Italian Version (PS2)",
-      "size": 4548976880,
       "region": "EUR",
       "version": "01.00",
       "release": null,
@@ -28554,16 +28424,6 @@
       "title_id": "NPED00151",
       "name": "Room Zoom - Race for Impact (PS2)",
       "size": 1337055024,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/EP4068/NPED00152_00/IOouYXtFpsPZdjTOuyLTaQCzitZOzQtzvqoaMbMFsgEJZLyCiQfeXtaAbdMXFCHy.pkg": {
-      "title_id": "NPED00152",
-      "name": "Pool Shark 2 - German Version (PS2)",
-      "size": 2093587936,
       "region": "EUR",
       "version": "01.00",
       "release": null,
@@ -29270,26 +29130,6 @@
       "min_fw": null,
       "cover_url": null
     },
-    "http://zeus.dl.playstation.net/cdn/HP5036/NPHB00733_00/HP5036-NPHB00733_00-TESLAGRAD0000001_bg_1_a7831e5b1ab358314d3e0aaae64889f7d7ecf6d0.pkg": {
-      "title_id": "NPHB00733",
-      "name": "Teslagrad (Korean Ver.)",
-      "size": 882118720,
-      "region": "ASIA",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/HP5036/NPHB00735_00/HP5036-NPHB00735_00-TESLAGRADMUSIC01_bg_1_baa6b80c01401982cf061f1939a9a55dd7c4c43e.pkg": {
-      "title_id": "NPHB00735",
-      "name": "Teslagrad Soundtrack (Korean Ver.)",
-      "size": 114637872,
-      "region": "ASIA",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
     "http://zeus.dl.playstation.net/cdn/EP4015/NPEB00982_00/FZNkDPchXVkYTTskJltnFjEbPsBRjAOHBIgdyvUxsReqjqzfMCbibcjOFadIIaMw.pkg": {
       "title_id": "NPEB00982",
       "name": "Agarest: Generations of War 2",
@@ -29334,16 +29174,6 @@
       "title_id": "NPEB02061",
       "name": "Borderlands: The Pre-Sequel",
       "size": 5880328224,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/EP0002/NPEB01205_00/cPfTbQJQMWoYtymVmiralkagsNorMYUxwfutJfFTXaXuiJFHqhqpTaHMVgCYoOUt.pkg": {
-      "title_id": "NPEB01205",
-      "name": "Call of Duty Black Ops II (German)",
-      "size": 9506313728,
       "region": "EUR",
       "version": "01.00",
       "release": null,
@@ -41840,16 +41670,6 @@
       "min_fw": null,
       "cover_url": null
     },
-    "http://zeus.dl.playstation.net/cdn/EP4015/NPED00141_00/ZJJjSPMmnAnFqwVCOiaGUJySoZeawQfpwPbkuTEZQDRxBRQtKLNaOOhoOcuIxHAk.pkg": {
-      "title_id": "NPED00141",
-      "name": "SMT: Digital Devil Saga 2 (PS2 Classic) (German)",
-      "size": 4706281808,
-      "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
     "http://zeus.dl.playstation.net/cdn/JP9000/NPJC00018_00/HJUEXtuxwkpvBBNkPaRYaPCiVAvnqiukRHRfltjWSqAoJMuZYIbpBnUlfMwosYoLOGLuEKwdoajJdZiaPtZsnYdUJSYACVLgMRtbH.pkg": {
       "title_id": "NPJC00018",
       "name": "蚊2 ～レッツゴーハワイ～",
@@ -52545,16 +52365,6 @@
       "name": "Under Siege",
       "size": 904298800,
       "region": "EUR",
-      "version": "01.00",
-      "release": null,
-      "min_fw": null,
-      "cover_url": null
-    },
-    "http://zeus.dl.playstation.net/cdn/UP9000/NPUA81048_00/RbzYTgsOlJdvEVHTjyTuXbDCiCEhAGEWWEqTfJMcewGaTGrFXpMJHqXZCiqDFvGZ.pkg": {
-      "title_id": "NPUA81048",
-      "name": "BEYOND: Two Souls™ Making of the Game Featurettes (French)",
-      "size": 1069085008,
-      "region": "USA",
       "version": "01.00",
       "release": null,
       "min_fw": null,
