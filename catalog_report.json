@@ -10,14 +10,14 @@
     "missing_or_unknown_size": 9,
     "missing_or_invalid_title_id": 1
   },
-  "generated_utc": "2026-11-21T00:52:46Z",
+  "generated_utc": "2026-11-22T14:43:20Z",
   "notes": [
     "No licenses/RAP keys are distributed.",
     "FPKGi+ downloads PS3 files but does not install them into RPCS3.",
     "Only download games you own or are authorized to download."
   ],
   "enhancement": {
-    "generated_utc": "2026-11-21T00:52:47.245866+00:00",
+    "generated_utc": "2026-11-22T14:43:21.216824+00:00",
     "disc_source": "https://github.com/niemasd/GameDB-PS3/releases/latest/download/PS3.data.json",
     "disc_records_read": 4571,
     "library_entries_after_filter_and_merge": 11341,
